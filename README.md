@@ -1,5 +1,4 @@
-# Computational modeling of neural populations
-## NeuroMod master program 2026-2027
+# Computational modeling of neural populations, NeuroMod master program 2026-2027
 
 by Emre Baspinar (MathNeuro project-team, Inria).
 
