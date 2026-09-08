@@ -1,4 +1,4 @@
-# Computational modeling of neural populations
+# Computational modeling of neural populations, NeuroMod master program 2026-2027
 by Emre Baspinar (MathNeuro project-team, Inria).
 
 This course focuses on computational modeling of neural population dynamics. We consider three approaches: neural fields, neurogeometry, and whole-brain modeling. The course is based on lectures which are complemented by practical hours. During the practical hours, we perform simulations of the presented modeling frameworks in the lectures. The simulations are done by using Python. The evaluation is based on two homework exams (20% + 20% of the total note) and a final exam (60% of the total note). The homework exams are done in groups of two students. The final exam is based on preparing a report on a publication chosen from the relevant literature. It is done individually by each student.
